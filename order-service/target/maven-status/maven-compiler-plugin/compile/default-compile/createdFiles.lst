@@ -1,0 +1,8 @@
+com/testproject/orderservice/model/Order.class
+com/testproject/orderservice/model/OrderLineItems.class
+com/testproject/orderservice/dto/OrderRequest.class
+com/testproject/orderservice/controller/OrderController.class
+com/testproject/orderservice/dto/OrderLineItemsDto.class
+com/testproject/orderservice/OrderServiceApplication.class
+com/testproject/orderservice/repository/OrderRepository.class
+com/testproject/orderservice/service/OrderService.class

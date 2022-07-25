@@ -1,0 +1,7 @@
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/productservice/src/main/java/com/testproject/productservice/dto/ProductRequest.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/productservice/src/main/java/com/testproject/productservice/controller/ProductController.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/productservice/src/main/java/com/testproject/productservice/ProductServiceApplication.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/productservice/src/main/java/com/testproject/productservice/repository/ProductRepository.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/productservice/src/main/java/com/testproject/productservice/service/ProductService.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/productservice/src/main/java/com/testproject/productservice/model/Product.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/productservice/src/main/java/com/testproject/productservice/dto/ProductResponse.java

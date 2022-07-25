@@ -1,0 +1,10 @@
+com/testproject/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/testproject/productservice/dto/ProductRequest.class
+com/testproject/productservice/controller/ProductController.class
+com/testproject/productservice/ProductServiceApplication.class
+com/testproject/productservice/model/Product.class
+com/testproject/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/testproject/productservice/dto/ProductResponse.class
+com/testproject/productservice/repository/ProductRepository.class
+com/testproject/productservice/service/ProductService.class
+com/testproject/productservice/model/Product$ProductBuilder.class

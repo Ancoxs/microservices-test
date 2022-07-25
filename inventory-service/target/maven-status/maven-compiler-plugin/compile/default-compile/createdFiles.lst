@@ -1,0 +1,5 @@
+com/testproject/inventoryservice/controller/InventoryController.class
+com/testproject/inventoryservice/repository/InventoryRepository.class
+com/testproject/inventoryservice/InventoryServiceApplication.class
+com/testproject/inventoryservice/service/InventoryService.class
+com/testproject/inventoryservice/model/Inventory.class

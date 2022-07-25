@@ -1,0 +1,8 @@
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/orderservice/src/main/java/com/testproject/orderservice/controller/OrderController.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/orderservice/src/main/java/com/testproject/orderservice/OrderServiceApplication.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/orderservice/src/main/java/com/testproject/orderservice/dto/OrderRequest.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/orderservice/src/main/java/com/testproject/orderservice/model/Order.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/orderservice/src/main/java/com/testproject/orderservice/model/OrderLineItems.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/orderservice/src/main/java/com/testproject/orderservice/service/OrderService.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/orderservice/src/main/java/com/testproject/orderservice/dto/OrderLineItemsDto.java
+/Users/oleksandra.komisarenko/IdeaProjects/microservices-test/orderservice/src/main/java/com/testproject/orderservice/repository/OrderRepository.java
